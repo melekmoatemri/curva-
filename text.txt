@@ -1,4 +1,4 @@
 
-function square (x){
-return x*x 
+function square (y){
+return y* y
 }
